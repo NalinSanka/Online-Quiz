@@ -87,5 +87,6 @@ mysqli_select_db($conn, 'quiz');
 
  <br>
 </div>
+  <footer>index page</footer>
 </body>
 </html>
